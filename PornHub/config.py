@@ -1,8 +1,8 @@
 from typing import List
 
-API_ID: int = insert_your_own_api_id_here
-API_HASH: str = "insert_your_own_api_hash_here"
-TOKEN: str = "insert_your_bot_token_here"
+API_ID: int = "29396282"
+API_HASH: str = "120d1ebeb72d0f2e22e451ee3718a503"
+TOKEN: str = "120d1ebeb72d0f2e22e451ee3718a503"
 
 log_chat: int = -1001662591986
 sub_chat: str = "SakuraEmpireTeam"
